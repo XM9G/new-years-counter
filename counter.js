@@ -32,3 +32,4 @@ setInterval(updateCountdown, 1000);
 
 // Update the countdown initially
 updateCountdown();
+
